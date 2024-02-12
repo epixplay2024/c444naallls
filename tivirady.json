@@ -85,19 +85,6 @@
          ]
       },
        {
-         "id":"56",
-         "channelName":"Paramount+ 24/7",
-         "channelImage":"https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
          "id":"57",
          "channelName":"CINE ACCIÓN 24/7",
          "channelImage":"https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
