@@ -18,12 +18,6 @@
          "channelName":"HBO 2",
          "channelImage":"https://telefullenvivo.com/imagenes2/hbo-2.png",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://bit.ly/3t0x3vs",
-               "contentHost":"4"
-            },
              {
                "quality":"HD",
                "playerType":"embed",
