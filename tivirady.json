@@ -33,7 +33,7 @@
          "channelLinks":[
             {
                "quality":"HD",
-               "playerType":"embed",
+               "playerType":"auto",
                "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&lang=1",
                "contentHost":"Doble clic con dedos"
             }
