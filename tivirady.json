@@ -13,6 +13,19 @@
            }
          ]
       },
+         {
+         "id":"2",
+         "channelName":"HBO POP",
+         "channelImage":"https://tele-libre.com/img/hbopop.webp",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/hbo-pop/",
+               "contentHost":"Doble clic con dedos"
+           }
+         ]
+      },
       {
          "id":"49",
          "channelName":"HBO 2",
