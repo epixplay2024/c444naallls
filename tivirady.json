@@ -5,7 +5,12 @@
          "channelName":"HBO",
          "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
          "channelLinks":[
-         
+              {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8",
+               "contentHost":"Doble clic con dedos"
+             },
              {
                "quality":"HD",
                "playerType":"embed",
