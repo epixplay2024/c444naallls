@@ -128,6 +128,33 @@
 
          ]
       },
+       {
+         "id":"48",
+         "channelName":"HBO FAMILY",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/10/4571_live-150x150.jpg",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&mx",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=SEJPX0ZhbWlseQ==",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&lang=1",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
       {
          "id":"49",
          "channelName":"HBO 2",
