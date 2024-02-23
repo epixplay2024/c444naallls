@@ -3,7 +3,7 @@
       {
          "id":"1",
          "channelName":"HBO",
-         "channelImage":"https://assets.stickpng.com/images/6132212900feb70004beb7c9.png",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg",
          "channelLinks":[
               {
                "quality":"HD",
@@ -28,7 +28,7 @@
          {
          "id":"2",
          "channelName":"HBO POP",
-         "channelImage":"https://cabletvhd.xyz/img/HBOPop.png",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbopop-150x150.jpg",
          "channelLinks":[
          
                  {
@@ -60,7 +60,7 @@
         {
          "id":"3",
          "channelName":"GOLDEN",
-         "channelImage":"https://tele-libre.com/img/golden-edge.png",
+         "channelImage":"https://telefullenvivo.com/imagenes2/goldenedge.png",
          "channelLinks":[
             {
                "quality":"HD",
@@ -79,7 +79,7 @@
         {
          "id":"4",
          "channelName":"GOLDEN PLUS",
-         "channelImage":"https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730",
+         "channelImage":"https://telefullenvivo.com/imagenes/goldenplus.png",
          "channelLinks":[
             {
                "quality":"HD",
@@ -210,7 +210,7 @@
       {
          "id":"53",
          "channelName":"CINEMAX",
-         "channelImage":"https://telefullenvivo.com/imagenes2/Cinemax.png",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/cinemax-150x150.jpg",
          "channelLinks":[
             {
                "quality":"HD",
