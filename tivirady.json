@@ -302,20 +302,101 @@
          ]
       },
       {
-         "id":"12",
-         "channelName":"DIRECTV SPORTS PLUS",
-         "channelImage":"https://deportestvhd2.com/img/logo-canal/DSports_Plus.png",
+         "id":"13",
+         "channelName":"ESPN 1",
+         "channelImage":"https://deportestvhd2.com/img/logo-canal/ESPN.webp",
          "channelLinks":[
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://tele-libre.com/en-vivo-online/dsports-plus/",
+               "url":"https://clarovideo.vtvcable.com/ESPN/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fMl9IRCkvbWFuaWZlc3QubXBk&key=OGQ3Y2I4ZmJjODFjZjNlZGRmOGViYjVkYjVlMTEyODI=&key2=YjdhOTg4MTJhYjhkODk3NDY0OWE2ZWM0MjBjMDEzZTE=",
+               "contentHost":"ESPN COLOMBIA"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=RVNQTjJIRA",
+               "contentHost":"ESPN ARGENTINA"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/espn/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
+         "id":"14",
+         "channelName":"ESPN 2",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/espn2-150x150.jpg",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=RVNQTjJfQXJn",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://www.tvspacehd.com/2022/10/directv-sport-plus.html",
+               "url":"https://tv-libre.com/html/fl/?get=RVNQTjJfQXJn",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/espn-2/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
+         "id":"15",
+         "channelName":"ESPN 3",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/espn3-150x150.jpg",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=RVNQTjM",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/espn-3/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
+         "id":"16",
+         "channelName":"ESPN PREMIUM",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/06/espn_premium-150x150.jpg",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tv-libre.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=RVNQTkhE",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/espn-extra/",
                "contentHost":"Con los dedos haz Zoom"
             }
 
