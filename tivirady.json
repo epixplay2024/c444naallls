@@ -8,15 +8,21 @@
               {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8",
+               "url":"https://bit.ly/3I7SluS",
                "contentHost":"Doble clic con dedos"
              },
              {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&mx",
+               "url":"https://clarovideo.alkadea.com/mpdk.html?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19IRF9NWCkvbWFuaWZlc3QubXBk&key=MjRjMmE0ZGY4ZThkZGQxNzY2NjFjYTZlMGQ2MWIyNmI=&key2=YjFiMTM4ODlmNzFhOTY5MDJjMjg1ODIzMDIxNjNhNWM=",
                "contentHost":"Doble clic con dedos"
-           }
+           },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/hbo/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
          ]
       },
          {
@@ -30,6 +36,50 @@
                "url":"https://tele-libre.com/en-vivo-online/hbo-pop/",
                "contentHost":"Doble clic con dedos"
            }
+         ]
+      },
+        {
+         "id":"3",
+         "channelName":"GOLDEN",
+         "channelImage":"https://tele-libre.com/img/golden-edge.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L3N2X3ByZW1pdW0vZ29sbXgucGhw",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+         ]
+      },
+        {
+         "id":"4",
+         "channelName":"GOLDEN PLUS",
+         "channelImage":"https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9IRCkvbWFuaWZlc3QubXBk&key=YTJkNmE4NjMxMWMyMWEyYzBmNmU5MGQ1OGZkN2U1OTA=&key2=YjU2MDdlMzg5MWU4ZmI0YzBjYzgyZDhmODJhYmU1Njk=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/golden-plus/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
          ]
       },
       {
