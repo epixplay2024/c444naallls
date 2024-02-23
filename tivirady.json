@@ -208,7 +208,7 @@
          ]
       },
       {
-         "id":"53",
+         "id":"52",
          "channelName":"CINEMAX",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/cinemax-150x150.jpg",
          "channelLinks":[
@@ -232,6 +232,33 @@
                "contentHost":"Con los dedos haz Zoom"
             
             }
+         ]
+      },
+       {
+         "id":"53",
+         "channelName":"SPACE",
+         "channelImage":"https://television-libre.online/img/space.webp",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L3N2LWN0Mi5waHA/Z2V0PUx5OHhNVGt6TFhadmN5NWtkSFp2ZEhRdVkyOXRMMFJCVTBndmJXRnVhV1psYzNRdWJYQmsma2V5PU5ETTVNR1prTW1VNFpETTBNems0TXpneVpqWmtZVGRqTnpZMU5UazROVFE9JmtleTI9TkRka01qUXpaak15WkRRMU9USTFZVEV5TXpsaFlXWmtZekV3T0RReE5UZz0=",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/dtv/?id=1193&lang=1",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/space/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
          ]
       },
       {
