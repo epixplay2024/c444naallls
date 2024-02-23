@@ -281,6 +281,46 @@
 
          ]
       },
+      {
+         "id":"11",
+         "channelName":"DIRECTV SPORTS 2",
+         "channelImage":"https://deportestvhd2.com/img/logo-canal/DSports_2.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/dtv/?id=1063&lang=1",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/dsports-2/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
+         "id":"12",
+         "channelName":"DIRECTV SPORTS PLUS",
+         "channelImage":"https://deportestvhd2.com/img/logo-canal/DSports_Plus.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/dsports-plus/",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://www.tvspacehd.com/2022/10/directv-sport-plus.html",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
       
       {
          "id":"54",
