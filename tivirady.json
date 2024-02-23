@@ -30,7 +30,26 @@
          "channelName":"HBO POP",
          "channelImage":"https://cabletvhd.xyz/img/HBOPop.png",
          "channelLinks":[
+            {,
+                 {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/fl/?get=SEJPX1BPUA==",
+               "contentHost":"Con los dedos haz Zoom"
+            },
             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://cabletvhd.xyz/repro/?r=Ly9yYXdhc2VzLmNvbS9tYWdpYy9oYm9wb3AucGhw",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QT1BfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=Mzk0MzM1MDk5YTZmMGU2ZjQzOTA0ZDhkMmRjNWEyM2Y=&key2=YjE0Y2UyZjYzODQ0NGIxNGUxZWY4MGRhNzBhMWI3YmU=&lang=1",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+          {
                "quality":"HD",
                "playerType":"embed",
                "url":"https://tele-libre.com/en-vivo-online/hbo-pop/",
@@ -90,7 +109,7 @@
              {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://player.twitch.tv/?channel=dor141xc&parent=onlinexlive.xyz&parent=www.onlinexlive.xyz&parent=www.supertelevisionhd.com&parent=www.supertelevisionhd.net",
+               "url":"",
                "contentHost":"5"
             }
          ]
