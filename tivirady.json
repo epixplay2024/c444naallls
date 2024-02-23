@@ -402,6 +402,53 @@
 
          ]
       },
+      {
+         "id":"17",
+         "channelName":"TYC SPORT",
+         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/tyc-150x150.jpg",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tv-libre.com/html/fl2/?get=VHlDU3BvcnQ",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/tyc-sports/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
+         "id":"18",
+         "channelName":"WIN SPORTS +",
+         "channelImage":"https://tv-libre.com/img/winsports.webp",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/win-sports-premium/",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://television-libre.online/html/rb/?r=WINSPORTSPLUS",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tucanaldeportivo.com/winmas.php",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
       
       {
          "id":"54",
