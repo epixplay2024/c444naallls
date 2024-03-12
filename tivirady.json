@@ -262,6 +262,26 @@
          ]
       },
       {
+         "id":"12",
+         "channelName":"DIRECTV SPORTS PLUS",
+         "channelImage":"https://television.libre.futbol/tv2/img/logo-canal/DirecTV_Sports_Plus.webp",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://deportestvhd2.com/repro.html?r=Ly9yYXdhc2VzLmNvbS9tYWdpYy9kc3ArLnBocA==",
+               "contentHost":"Con los dedos haz Zoom"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tele-libre.com/en-vivo-online/dsports-plus/",
+               "contentHost":"Con los dedos haz Zoom"
+            }
+
+         ]
+      },
+      {
          "id":"10",
          "channelName":"DIRECTV SPORTS",
          "channelImage":"https://television.libre.futbol/tv2/img/logo-canal/DirecTV_Sports.png",
