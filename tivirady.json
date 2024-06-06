@@ -16,12 +16,6 @@
                "playerType":"embed",
                "url":"https://television-libre.online/html/clarovideo.html?r=HBO",
                "contentHost":"Doble clic con dedos"
-           },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tele-libre.com/en-vivo-online/hbo/",
-               "contentHost":"Con los dedos haz Zoom"
             }
          ]
       },
@@ -30,50 +24,12 @@
          "channelName":"HBO POP",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbopop-150x150.jpg",
          "channelLinks":[
-         
-                 {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/fl/?get=SEJPX1BPUA==",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://cabletvhd.xyz/repro/?r=Ly9yYXdhc2VzLmNvbS9tYWdpYy9oYm9wb3AucGhw",
-               "contentHost":"Con los dedos haz Zoom"
-            },
             {
                "quality":"HD",
                "playerType":"embed",
                "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QT1BfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=Mzk0MzM1MDk5YTZmMGU2ZjQzOTA0ZDhkMmRjNWEyM2Y=&key2=YjE0Y2UyZjYzODQ0NGIxNGUxZWY4MGRhNzBhMWI3YmU=&lang=1",
                "contentHost":"Con los dedos haz Zoom"
-            },
-          {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tele-libre.com/en-vivo-online/hbo-pop/",
-               "contentHost":"Doble clic con dedos"
            }
-         ]
-      },
-        {
-         "id":"3",
-         "channelName":"GOLDEN",
-         "channelImage":"https://telefullenvivo.com/imagenes2/goldenedge.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L3N2X3ByZW1pdW0vZ29sbXgucGhw",
-               "contentHost":"Con los dedos haz Zoom"
-            }
          ]
       },
         {
@@ -85,12 +41,6 @@
                "quality":"HD",
                "playerType":"embed",
                "url":"https://clarovideo.talwan.makeup/dtvb.html?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9IRCkvbWFuaWZlc3QubXBk&key=YTJkNmE4NjMxMWMyMWEyYzBmNmU5MGQ1OGZkN2U1OTA=&key2=YjU2MDdlMzg5MWU4ZmI0YzBjYzgyZDhmODJhYmU1Njk=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8",
                "contentHost":"Con los dedos haz Zoom"
             },
             {
@@ -112,13 +62,6 @@
                "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19YVFJFTUVfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=M2RkNTljMWM5MzY1ODE4MTgyNjI5MTRhYzRkNWEyMjg=&key2=N2RiNzU0NWM2MTkxYjNkYjc3ZDc5YzRkODU0NjVlNDg=&mx",
                "contentHost":"Con los dedos haz Zoom"
             },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/fl/?get=SEJPX0V4dHJlbWU=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-
              {
                "quality":"HD",
                "playerType":"embed",
@@ -137,12 +80,6 @@
                "quality":"HD",
                "playerType":"embed",
                "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&mx",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/fl/?get=SEJPX0ZhbWlseQ==",
                "contentHost":"Con los dedos haz Zoom"
             },
 
@@ -167,12 +104,6 @@
                "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCTzJfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=MmQyMzQ4N2I1Yjg4MWU0NGJhMGZhYjk3NTlmZDg1YTM=&key2=MDI5YzdmMTI4OTkzMDM0YWRmZTRiYzRlOTUxNDA0MjQ=&mx",
                "contentHost":"Con los dedos haz Zoom"
             },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/fl/?get=SEJPXzI=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
              {
                "quality":"HD",
                "playerType":"embed",
@@ -192,12 +123,6 @@
                "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&mx",
                "contentHost":"Con los dedos haz Zoom"
             },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/fl/?get=SEJPX1BsdXM=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
 
              {
                "quality":"HD",
@@ -212,12 +137,6 @@
          "channelName":"CINEMAX",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/cinemax-150x150.jpg",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L3N2LWN0Mi5waHA/Z2V0PUx5OHhNRFEyTFhadmN5NWtkSFp2ZEhRdVkyOXRMMFJCVTBndmJXRnVhV1psYzNRdWJYQmsma2V5PU4yRmpNRFV6WTJVMFlUWmpNemM0Tm1FM01XTXlNMk16Tm1KbVpXUXdNamc9JmtleTI9WWpNeU5HUmhOV0U0TlRnNE5EQmxaVGM1WW1FMFltTXhaR1k1Wm1aa09UVT0=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
             {
                "quality":"HD",
                "playerType":"embed",
@@ -239,19 +158,6 @@
          "channelName":"SPACE",
          "channelImage":"https://television-libre.online/img/space.webp",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L3N2LWN0Mi5waHA/Z2V0PUx5OHhNVGt6TFhadmN5NWtkSFp2ZEhRdVkyOXRMMFJCVTBndmJXRnVhV1psYzNRdWJYQmsma2V5PU5ETTVNR1prTW1VNFpETTBNems0TXpneVpqWmtZVGRqTnpZMU5UazROVFE9JmtleTI9TkRka01qUXpaak15WkRRMU9USTFZVEV5TXpsaFlXWmtZekV3T0RReE5UZz0=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/dtv/?id=1193&lang=1",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-
              {
                "quality":"HD",
                "playerType":"embed",
@@ -266,12 +172,6 @@
          "channelName":"WIN SPORTS +",
          "channelImage":"https://tv-libre.com/img/winsports.webp",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tele-libre.com/en-vivo-online/win-sports-premium/",
-               "contentHost":"Con los dedos haz Zoom"
-            },
             {
                "quality":"HD",
                "playerType":"embed",
