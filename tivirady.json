@@ -1,5 +1,24 @@
 {
    "channels":[
+          {
+         "id":"100",
+         "channelName":"TUDN",
+         "channelImage":"https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://clarovideo.sdfgnksbounce.com/tudn.php?get=Ly9pLm1qaC5uei9TYW1zdW5nVFZQbHVzL1VTQkQxNzAwMDE2WDkubTN1OA==",
+               "contentHost":"4"
+            },
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://fullchannels.online/canales.php?id=tudnusa",
+               "contentHost":"Doble clic con dedos"
+           }
+         ]
+      },
       {
          "id":"1",
          "channelName":"HBO",
