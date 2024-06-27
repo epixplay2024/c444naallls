@@ -10,7 +10,13 @@
                "playerType":"embed",
                "url":"https://tucanaldeportivo.com/tycsports.php",
                "contentHost":"CANAL HD"
-           }
+           },
+                  {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://streamtp.live/global2.php?stream=tyc_sports",
+               "contentHost":"Doble clic con dedos"
+                }
          ]
       },
           {
@@ -23,7 +29,13 @@
                "playerType":"embed",
                "url":"https://clarovideo.sdfgnksbounce.com/tudn.php?get=Ly9pLm1qaC5uei9TYW1zdW5nVFZQbHVzL1VTQkQxNzAwMDE2WDkubTN1OA==",
                "contentHost":"CANAL HD"
-           }
+           },
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tucanaldeportivo.com/tudnmx.php",
+               "contentHost":"Doble clic con dedos"
+                }
          ]
       },
       {
