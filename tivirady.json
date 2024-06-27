@@ -1,5 +1,18 @@
 {
    "channels":[
+        {
+         "id":"100",
+         "channelName":"TyC Sports",
+         "channelImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tucanaldeportivo.com/tycsports.php",
+               "contentHost":"CANAL HD"
+           }
+         ]
+      },
           {
          "id":"100",
          "channelName":"TUDN",
