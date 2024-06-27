@@ -19,6 +19,25 @@
                 }
          ]
       },
+       {
+         "id":"101",
+         "channelName":"ESPN",
+         "channelImage":"https://cdn.iconscout.com/icon/free/png-256/free-espn-282356.png?f=webp",
+         "channelLinks":[
+            {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tucanaldeportivo.com/espnhd.php",
+               "contentHost":"CANAL HD"
+           },
+                  {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://librefutboltv.net/embed/cv.html?get=RVNQTjJIRA",
+               "contentHost":"Doble clic con dedos"
+                }
+         ]
+      },
           {
          "id":"100",
          "channelName":"TUDN",
