@@ -253,6 +253,14 @@
                "playerType":"embed",
                "url":"https://television-libre.online/html/rb/?r=WINSPORTSPLUS",
                "contentHost":"Con los dedos haz Zoom"
+           },
+
+             {
+               "quality":"HD",
+               "playerType":"embed",
+               "url":"https://tucanaldeportivo.com/caracol.php",
+               "contentHost":"Con los dedos haz Zoom"
+            
             }
          ]
       },
