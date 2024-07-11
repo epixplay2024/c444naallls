@@ -14,7 +14,7 @@
                   {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://tucanaldeportivo.com/directvsports.php",
+               "url":"https://dtvlivegratis.com/stream.php?stream=dsports",
                "contentHost":"Doble clic con dedos"
                 }
          ]
@@ -27,51 +27,7 @@
             {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://tucanaldeportivo.com/tycsports.php",
-               "contentHost":"CANAL HD"
-           },
-                  {
-               "quality":"HD",
-               "playerType":"embed",
                "url":"https://streamtp.live/global2.php?stream=tyc_sports",
-               "contentHost":"Doble clic con dedos"
-                }
-         ]
-      },
-       {
-         "id":"103",
-         "channelName":"ESPN",
-         "channelImage":"https://cdn.iconscout.com/icon/free/png-256/free-espn-282356.png?f=webp",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tucanaldeportivo.com/espnhd.php",
-               "contentHost":"CANAL HD"
-           },
-                  {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://librefutboltv.net/embed/cv.html?get=RVNQTjJIRA",
-               "contentHost":"Doble clic con dedos"
-                }
-         ]
-      },
-          {
-         "id":"100",
-         "channelName":"TUDN",
-         "channelImage":"https://mir-s3-cdn-cf.behance.net/projects/404/96616e173813731.Y3JvcCw3NjIsNTk2LDM1LDA.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.sdfgnksbounce.com/tudn.php?get=Ly9pLm1qaC5uei9TYW1zdW5nVFZQbHVzL1VTQkQxNzAwMDE2WDkubTN1OA==",
-               "contentHost":"CANAL HD"
-           },
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tucanaldeportivo.com/tudnmx.php",
                "contentHost":"Doble clic con dedos"
                 }
          ]
@@ -241,27 +197,6 @@
                "contentHost":"Con los dedos haz Zoom"
             }
 
-         ]
-      },
-      {
-         "id":"18",
-         "channelName":"WIN SPORTS +",
-         "channelImage":"https://tv-libre.com/img/winsports.webp",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://television-libre.online/html/rb/?r=WINSPORTSPLUS",
-               "contentHost":"Con los dedos haz Zoom"
-           },
-
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tucanaldeportivo.com/caracol.php",
-               "contentHost":"Con los dedos haz Zoom"
-            
-            }
          ]
       },
       {
