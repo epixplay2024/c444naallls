@@ -5,12 +5,6 @@
          "channelName":"DSPORTS",
          "channelImage":"https://yt3.googleusercontent.com/Sw9deySN8RNqCkZtUWN1GIoLZd5pEKPmk51B_7aIcjYz367wD4-DeSm6pZrmmrenPctUWsgqGg=s900-c-k-c0x00ffffff-no-rj",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://micanaldeportivo.com/directvsports.php",
-               "contentHost":"CANAL HD"
-           },
                   {
                "quality":"HD",
                "playerType":"embed",
