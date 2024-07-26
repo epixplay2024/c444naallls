@@ -1,46 +1,14 @@
 {
    "channels":[
       {
-         "id":"102",
-         "channelName":"DSPORTS",
-         "channelImage":"https://yt3.googleusercontent.com/Sw9deySN8RNqCkZtUWN1GIoLZd5pEKPmk51B_7aIcjYz367wD4-DeSm6pZrmmrenPctUWsgqGg=s900-c-k-c0x00ffffff-no-rj",
-         "channelLinks":[
-                  {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://sv4.streamtp.live/global1.php?stream=dsports",
-               "contentHost":"Doble clic con dedos"
-                }
-         ]
-      },
-        {
-         "id":"101",
-         "channelName":"TyC Sports",
-         "channelImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5YnCnSgdQt6aGDRXgYC07tAAAkqqgLTeXg&s",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://streamtp.live/global2.php?stream=tyc_sports",
-               "contentHost":"Doble clic con dedos"
-                }
-         ]
-      },
-      {
          "id":"1",
          "channelName":"HBO",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg",
          "channelLinks":[
-              {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&mx",
-               "contentHost":"Doble clic con dedos"
-             },
              {
                "quality":"HD",
                "playerType":"embed",
-               "url":"https://television-libre.online/html/clarovideo.html?r=HBO",
+               "url":"https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly9jbGFyb3ZpZGVvLnZ0dmNhYmxlLmNvbS9IQk9NQVgvP3VybD1hSFIwY0hNNkx5OXNZWFJoYlhadmMyeHBkbVZqYkdGeWIzWnBaR1Z2TG1GcllXMWhhWHBsWkM1dVpYUXZRMjl1ZEdWdWRDOUVRVk5JWDBSQlUwaGZSa3N2VEdsMlpTOURhR0Z1Ym1Wc0tFaENUMTlJUkY5TldDa3ZiV0Z1YVdabGMzUXViWEJrJmtleT1NalJqTW1FMFpHWTRaVGhrWkdReE56WTJOakZqWVRabE1HUTJNV0l5Tm1JPSZrZXkyPVlqRmlNVE00T0RsbU56RmhPVFk1TURKak1qZzFPREl6TURJeE5qTmhOV009Jmxhbmc9MQ==",
                "contentHost":"Doble clic con dedos"
             }
          ]
@@ -58,36 +26,11 @@
            }
          ]
       },
-        {
-         "id":"4",
-         "channelName":"GOLDEN PLUS",
-         "channelImage":"https://telefullenvivo.com/imagenes/goldenplus.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9IRCkvbWFuaWZlc3QubXBk&key=YTJkNmE4NjMxMWMyMWEyYzBmNmU5MGQ1OGZkN2U1OTA=&key2=YjU2MDdlMzg5MWU4ZmI0YzBjYzgyZDhmODJhYmU1Njk=",
-               "contentHost":"Con los dedos haz Zoom"
-            },
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://tele-libre.com/en-vivo-online/golden-plus/",
-               "contentHost":"Con los dedos haz Zoom"
-            }
-         ]
-      },
        {
          "id":"47",
          "channelName":"HBO XTREME",
          "channelImage":"https://telefullenvivo.com/imagenes2/hbo-xtreme.png",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19YVFJFTUVfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=M2RkNTljMWM5MzY1ODE4MTgyNjI5MTRhYzRkNWEyMjg=&key2=N2RiNzU0NWM2MTkxYjNkYjc3ZDc5YzRkODU0NjVlNDg=&mx",
-               "contentHost":"Con los dedos haz Zoom"
-            },
              {
                "quality":"HD",
                "playerType":"embed",
@@ -102,12 +45,6 @@
          "channelName":"HBO FAMILY",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/10/4571_live-150x150.jpg",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&mx",
-               "contentHost":"Con los dedos haz Zoom"
-            },
 
              {
                "quality":"HD",
@@ -123,13 +60,6 @@
          "channelName":"HBO 2",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbo2-150x150.jpg",
          "channelLinks":[
-            
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCTzJfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=MmQyMzQ4N2I1Yjg4MWU0NGJhMGZhYjk3NTlmZDg1YTM=&key2=MDI5YzdmMTI4OTkzMDM0YWRmZTRiYzRlOTUxNDA0MjQ=&mx",
-               "contentHost":"Con los dedos haz Zoom"
-            },
              {
                "quality":"HD",
                "playerType":"embed",
@@ -143,12 +73,6 @@
          "channelName":"HBO PLUS",
          "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hboplus-150x150.jpg",
          "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.talwan.makeup/dtvb.html?get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&mx",
-               "contentHost":"Con los dedos haz Zoom"
-            },
 
              {
                "quality":"HD",
