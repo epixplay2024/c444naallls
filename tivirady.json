@@ -1,18 +1,6 @@
 {
    "channels":[
-      {
-         "id":"1",
-         "channelName":"HBO",
-         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbo-150x150.jpg",
-         "channelLinks":[
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly9jbGFyb3ZpZGVvLnZ0dmNhYmxlLmNvbS9IQk9NQVgvP3VybD1hSFIwY0hNNkx5OXNZWFJoYlhadmMyeHBkbVZqYkdGeWIzWnBaR1Z2TG1GcllXMWhhWHBsWkM1dVpYUXZRMjl1ZEdWdWRDOUVRVk5JWDBSQlUwaGZSa3N2VEdsMlpTOURhR0Z1Ym1Wc0tFaENUMTlJUkY5TldDa3ZiV0Z1YVdabGMzUXViWEJrJmtleT1NalJqTW1FMFpHWTRaVGhrWkdReE56WTJOakZqWVRabE1HUTJNV0l5Tm1JPSZrZXkyPVlqRmlNVE00T0RsbU56RmhPVFk1TURKak1qZzFPREl6TURJeE5qTmhOV009Jmxhbmc9MQ==",
-               "contentHost":"Doble clic con dedos"
-            }
-         ]
-      },
+      
          {
          "id":"2",
          "channelName":"HBO POP",
