@@ -1,204 +1,226 @@
 {
-   "channels":[
-      
-         {
-         "id":"2",
-         "channelName":"HBO POP",
-         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbopop-150x150.jpg",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QT1BfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=Mzk0MzM1MDk5YTZmMGU2ZjQzOTA0ZDhkMmRjNWEyM2Y=&key2=YjE0Y2UyZjYzODQ0NGIxNGUxZWY4MGRhNzBhMWI3YmU=&lang=1",
-               "contentHost":"Con los dedos haz Zoom"
-           }
-         ]
-      },
-       {
-         "id":"47",
-         "channelName":"HBO XTREME",
-         "channelImage":"https://telefullenvivo.com/imagenes2/hbo-xtreme.png",
-         "channelLinks":[
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19YVFJFTUVfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=M2RkNTljMWM5MzY1ODE4MTgyNjI5MTRhYzRkNWEyMjg=&key2=N2RiNzU0NWM2MTkxYjNkYjc3ZDc5YzRkODU0NjVlNDg=&lang=1",
-               "contentHost":"Con los dedos haz Zoom"
-            }
-
-         ]
-      },
-       {
-         "id":"48",
-         "channelName":"HBO FAMILY",
-         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/10/4571_live-150x150.jpg",
-         "channelLinks":[
-
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&lang=1",
-               "contentHost":"Con los dedos haz Zoom"
-            }
-
-         ]
-      },
-      {
-         "id":"49",
-         "channelName":"HBO 2",
-         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hbo2-150x150.jpg",
-         "channelLinks":[
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCTzJfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=MmQyMzQ4N2I1Yjg4MWU0NGJhMGZhYjk3NTlmZDg1YTM=&key2=MDI5YzdmMTI4OTkzMDM0YWRmZTRiYzRlOTUxNDA0MjQ=&lang=1",
-               "contentHost":"5"
-            }
-         ]
-      },
-      {
-         "id":"50",
-         "channelName":"HBO PLUS",
-         "channelImage":"https://www.vertvcable.com/wp-content/uploads/2022/02/hboplus-150x150.jpg",
-         "channelLinks":[
-
-             {
-               "quality":"HD",
-               "playerType":"embed",
-               "url":"https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&lang=1",
-               "contentHost":"Con los dedos haz Zoom"
-            }
-         ]
-      },
-      {
-         "id":"54",
-         "channelName":"One Piece 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
-         "id":"55",
-         "channelName":"Bob Esponja 24/7",
-         "channelImage":"https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
-         "id":"57",
-         "channelName":"CINE ACCIÓN 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
-         "id":"58",
-         "channelName":"ANIME 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
-         "id":"59",
-         "channelName":"COCINA 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
-       {
-         "id":"60",
-         "channelName":"Pluto TV Animales 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
+    "channels": [
         {
-         "id":"61",
-         "channelName":"Animé Acción 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
+            "id": 2,
+            "channelName": "HBO POP",
+            "channelImage": "https://www.vertvcable.com/wp-content/uploads/2022/02/hbopop-150x150.jpg",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "embed",
+                    "url": "https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QT1BfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=Mzk0MzM1MDk5YTZmMGU2ZjQzOTA0ZDhkMmRjNWEyM2Y=&key2=YjE0Y2UyZjYzODQ0NGIxNGUxZWY4MGRhNzBhMWI3YmU=&lang=1",
+                    "contentHost": "Con los dedos haz Zoom"
+                }
+            ]
+        },
         {
-         "id":"62",
-         "channelName":"Estrellas de Acción 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
+            "id": 47,
+            "channelName": "HBO XTREME",
+            "channelImage": "https://telefullenvivo.com/imagenes2/hbo-xtreme.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "embed",
+                    "url": "https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19YVFJFTUVfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=M2RkNTljMWM5MzY1ODE4MTgyNjI5MTRhYzRkNWEyMjg=&key2=N2RiNzU0NWM2MTkxYjNkYjc3ZDc5YzRkODU0NjVlNDg=&lang=1",
+                    "contentHost": "Con los dedos haz Zoom"
+                }
+            ]
+        },
         {
-         "id":"63",
-         "channelName":"AVENTURA 24/7",
-         "channelImage":"https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      },
+            "id": 48,
+            "channelName": "HBO FAMILY",
+            "channelImage": "https://www.vertvcable.com/wp-content/uploads/2022/10/4571_live-150x150.jpg",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "embed",
+                    "url": "https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19GQU1JTFlfSEQpL21hbmlmZXN0Lm1wZA==&key=MWQ3ZWQzODE1Y2JhZTM3ODVjZWJmZTZiNDJmM2M2NTU=&key2=ZTEyNzAxMTEwOGI2YjViOTY0NmEwZGViM2E1ZDcxYmQ=&lang=1",
+                    "contentHost": "Con los dedos haz Zoom"
+                }
+            ]
+        },
         {
-         "id":"64",
-         "channelName":"Sin Tetas No Hay Paraíso 24/7",
-         "channelImage":"https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
-         "channelLinks":[
-            {
-               "quality":"HD",
-               "playerType":"auto",
-               "url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-               "contentHost":"HD"
-            }
-         ]
-      }
-   ]
+            "id": 49,
+            "channelName": "HBO 2",
+            "channelImage": "https://www.vertvcable.com/wp-content/uploads/2022/02/hbo2-150x150.jpg",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "embed",
+                    "url": "https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCTzJfSERfTVgpL21hbmlmZXN0Lm1wZA==&key=MmQyMzQ4N2I1Yjg4MWU0NGJhMGZhYjk3NTlmZDg1YTM=&key2=MDI5YzdmMTI4OTkzMDM0YWRmZTRiYzRlOTUxNDA0MjQ=&lang=1",
+                    "contentHost": "5"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "channelName": "HBO PLUS",
+            "channelImage": "https://www.vertvcable.com/wp-content/uploads/2022/02/hboplus-150x150.jpg",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "embed",
+                    "url": "https://clarovideo.vtvcable.com/HBOMAX/?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhCT19QTFVTX0hEX01YKS9tYW5pZmVzdC5tcGQ=&key=OGM2ZTkzM2YzMTU1NzhiNTExMWUyMjkyZmFmOTlmNzA=&key2=MzQ0NmYzNTk0Nzk1N2QzNzAxYzQ5ZmQxNzI5ZjIxNmY=&lang=1",
+                    "contentHost": "Con los dedos haz Zoom"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "channelName": "One Piece 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "channelName": "Bob Esponja 24/7",
+            "channelImage": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "channelName": "CINE ACCIÓN 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "channelName": "ANIME 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "channelName": "COCINA 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "channelName": "Pluto TV Animales 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "channelName": "Animé Acción 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "channelName": "Estrellas de Acción 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "channelName": "AVENTURA 24/7",
+            "channelImage": "https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "channelName": "Sin Tetas No Hay Paraíso 24/7",
+            "channelImage": "https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",
+            "channelLinks": [
+                {
+                    "quality": "HD",
+                    "playerType": "auto",
+                    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+                    "contentHost": "HD"
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "title": "24/7",
+            "channelIds": [
+                "63",
+                "64",
+                "62",
+                "61",
+                "60",
+                "59",
+                "58",
+                "57",
+                "55",
+                "54"
+            ]
+        },
+        {
+            "title": "Premium",
+            "channelIds": [
+                "2",
+                "47",
+                "48",
+                "49",
+                "50"
+            ]
+        }
+    ]
 }
