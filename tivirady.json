@@ -194,25 +194,6 @@
                     "contentHost": "HD"
                 }
             ]
-        },
-        {
-            "id": "65",
-            "channelName": "DISNEY CHANNEL",
-            "channelImage": "https://1000marcas.net/wp-content/uploads/2020/11/Disney-Channel-Logo-2002.jpg",
-            "channelLinks": [
-                {
-                    "quality": "HD",
-                    "playerType": "Native",
-                    "url": "https://clarovideo.sdfgnksbounce.com/nick.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU05FWV9IRCkvbWFuaWZlc3QubXBk&k1=MDI3ZTYzN2FmZWQ3ZGIxMTg1M2ZmMWExOWNjOGU0ZGI=&k2=NjA4ZjkxZjA1NTM2ZjVhNmM5M2U3MGNkZDk1YWJhNWM=",
-                    "contentHost": "HD"
-                },
-                {
-                    "quality": "HD",
-                    "playerType": "Embed",
-                    "url": "https://tomyjerry.nebunexa.com/extencion.html?get=SEJPX1BsdXM=&lang=1&start=true",
-                    "contentHost": "HD"
-                }
-            ]
         }
     ],
     "categories": [
@@ -239,12 +220,6 @@
                 "48",
                 "49",
                 "50"
-            ]
-        },
-        {
-            "title": "Animado",
-            "channelIds": [
-                "65"
             ]
         }
     ]
