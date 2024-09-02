@@ -202,7 +202,7 @@
             "channelLinks": [
                 {
                     "quality": "HD",
-                    "playerType": "Embed",
+                    "playerType": "Native",
                     "url": "https://clarovideo.sdfgnksbounce.com/nick.php?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKERJU05FWV9IRCkvbWFuaWZlc3QubXBk&k1=MDI3ZTYzN2FmZWQ3ZGIxMTg1M2ZmMWExOWNjOGU0ZGI=&k2=NjA4ZjkxZjA1NTM2ZjVhNmM5M2U3MGNkZDk1YWJhNWM=",
                     "contentHost": "HD"
                 },
