@@ -194,25 +194,6 @@
                     "contentHost": "HD"
                 }
             ]
-        },
-        {
-            "id": "65",
-            "channelName": "Disnney Chanel",
-            "channelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkHfdwMPAqxpQlgpBY1C1HriSuDObSb1Z0g&s",
-            "channelLinks": [
-                {
-                    "quality": "HD",
-                    "playerType": "Auto",
-                    "url": "https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly93d3cudnR2Y2FibGUuY29tL21wZC5waHA/aWQ9ZGlzbmV5Y2hhbm5lbCZsYW5nPTE=",
-                    "contentHost": "HD"
-                },
-                {
-                    "quality": "hd2",
-                    "playerType": "Auto",
-                    "url": "https://www.vtvcable.com/videoplayer.php?url=aHR0cHM6Ly93d3cudnR2Y2FibGUuY29tL2Fkcy5waHA=",
-                    "contentHost": "hd2"
-                }
-            ]
         }
     ],
     "categories": [
@@ -234,7 +215,6 @@
         {
             "title": "Premium",
             "channelIds": [
-                "65",
                 "2",
                 "47",
                 "48",
